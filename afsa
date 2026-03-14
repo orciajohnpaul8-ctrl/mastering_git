@@ -1,0 +1,30 @@
+[33mcommit 3e26dac7a0b56d42b70c4215c068a588bbed3281[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfu-branch[m[33m, [m[1;31morigin/fu-branch[m[33m)[m
+Merge: 85b4b1c 90e27ec
+Author: jp <orciajohnpaul8@gmail.com>
+Date:   Sat Mar 14 19:10:58 2026 +0800
+
+    Merge branch 'main' into fu-branch
+
+[33mcommit 90e27ecea8f59f9c9e6ebce8eae773669e47510e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: John Orcia <orciajohnpaul8@gmail.com>
+Date:   Sat Mar 14 16:14:04 2026 +0800
+
+    Update readme.md
+
+[33mcommit 85b4b1c8cc18a4d795b8b30cf25be569556c5b4f[m
+Author: jp <orciajohnpaul8@gmail.com>
+Date:   Sat Mar 14 16:07:25 2026 +0800
+
+    Modify readme
+
+[33mcommit f6076e0ad0cd17f9bcf8597c36ca0b450a71765c[m[33m ([m[1;31morigin/feature-branch[m[33m, [m[1;32mfeature-branch[m[33m, [m[1;32mbranch-name[m[33m)[m
+Author: jp <orciajohnpaul8@gmail.com>
+Date:   Sat Mar 14 13:16:02 2026 +0800
+
+    Add hello and test files
+
+[33mcommit d39f79622964ea1e117ecec04654a25598210d4e[m
+Author: jp <orciajohnpaul8@gmail.com>
+Date:   Sat Mar 14 13:13:21 2026 +0800
+
+    Add readme.md file
